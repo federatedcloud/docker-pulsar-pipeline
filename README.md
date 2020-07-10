@@ -1,2 +1,2 @@
 # docker-pulsar-pipeline
-A Docker container for packaging pulsar searching software
+A Docker/Singularity container for packaging pulsar searching software
